@@ -1,2 +1,6 @@
 .pytest_cache
 .idea
+target
+*.iml
+/.idea/
+/target/
