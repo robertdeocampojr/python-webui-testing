@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9367d5c5-c251-4033-9174-a78e464fe9f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/07ea41e6-6924-402c-a525-34012ad7300e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/4610b9d3-aee0-41fa-b50a-7b7796c93b4e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/67f0d2ac-0c33-4c05-a347-c0a8d58b8ca8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/87b92eb5-059b-42e6-82cd-d7a0873c9dfb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/91048955-b46f-4294-ada6-218dc5196050-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/9f248e82-f747-46db-b26f-e5d1e4db6ed5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/a415069b-633a-4246-9954-a02333f0728a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/b0190a8c-5a35-4d78-8bf1-4ac31a80fae3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/bbfde27e-b539-4824-9379-233533371d32-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/bcc96a2a-d62f-42f5-b033-fc0184774102-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/cd2e3af2-a678-4ead-af59-1152f30d6290-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/e4916efd-3100-482d-829c-5aa5fbe9173b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/e57c85d3-f77f-4ba1-af8f-f485d2ffad20-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/fc188f43-8c71-4e83-8772-14d4cffadb13-container.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z97ulJPh2XYTaVvpD1XlVFtAZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9367d5c5-c251-4033-9174-a78e464fe9f8" name="Default Changelist" comment="" />
+      <created>1584239680497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584239680497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584250477574">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2/0.23.1680.979@0.23.1680.979" timestamp="1584250477574" />
+  </component>
+</project>
